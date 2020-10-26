@@ -7,6 +7,10 @@
 
 ---
 
+<img src="https://media.giphy.com/media/xT8pe2M9qM4bidp4GY/giphy.gif"/>
+
+---
+
 <a href="https://github.com/Tnembull/WebLanjut/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tnembull&repo=WebLanjut&theme=vue-dark" />
 </a>
@@ -21,6 +25,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tnembull&show_icons=true&theme=calm&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnembull&layout=compact&theme=calm&hide_border=true"/>
 </details>
+
+---
+
 <details>	
   <summary><b> Languages and Tools</b></summary>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
@@ -34,6 +41,9 @@
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 </details>
+
+---
+
 <details>	
   <br />
   <summary><b> Things I use to get stuff done</b></summary>
@@ -45,3 +55,5 @@
 	    <br />
 	</ul>	
 </details>
+
+---
