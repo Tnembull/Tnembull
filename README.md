@@ -1,16 +1,15 @@
-<h1 align="center">Hi There, I'm <a href="https://github.com/Tnembull">Muhammad Nur Ashiddiqi</a></h1>
+<h1 align="center">Hi There, I'm <a href="https://github.com/Tnembull">Muhammad Nur Ashiddiqi 👨‍💻</a></h1>
 
-### 📫 Contact Me
+- 😄 Pronouns: He/Him  
+- 🌱 I'm currently learning Website Technology  
+- 💬 Ask me about this repository  
+- 📫 How to reach me: [@m.nur.ashiddiqi](https://www.instagram.com/m.nur.ashiddiqi)  
+- 💼 Job role: Ctrl + C and Ctrl + V  
+- 👀 Profile Views: <img src="https://komarev.com/ghpvc/?username=Tnembull">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadnurashiddiqi/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tnembull.github.io/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/m.nur.ashiddiqi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/m.nur.ashiddiqi/)
-[![GMail Badge](https://img.shields.io/badge/-Gmail-D1483E?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhammadnurashiddiqi@gmail.com)
-<br>
-<a href="https://www.codewars.com/users/Tnembull/"><img src="https://www.codewars.com/users/Tnembull/badges/large"/></a>
 
-## ❤ Views and Followers
-
-<img src="https://komarev.com/ghpvc/?username=Tnembull">
-<a href="https://github.com/Tnembull?tab=followers"><img src="https://img.shields.io/github/followers/Tnembull?label=Followers&style=social" alt="GitHub Badge"></a>
+|                                                                                             |                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------| ---------------------------------------------------------------------------------------------------------------------- |
+| **Recently Used:**<br> ![My Skills](https://skillicons.dev/icons?i=javascript,express,nodejs,sequelize,postgres,postman&theme=light)                   | **DevOps:**<br> ![My Skills](https://skillicons.dev/icons?i=nginx,docker,ubuntu,kubernetes,githubactions&theme=light)      |
+| **Frontend Development:**<br> ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,vue,react,tailwindcss&theme=light)        | **Text Editors:**<br> ![My Skills](https://skillicons.dev/icons?i=vscode,sublime,pycharm&theme=light)                          |
+| **Backend & Database:**<br> ![My Skills](https://skillicons.dev/icons?i=laravel,django,mysql,postman&theme=light)        | **Oprating System :**<br> ![My Skills](https://skillicons.dev/icons?i=linux,windows&theme=light)                                                                                                                                            
